@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAQUAY Archivage</string>
+
+    <string name="http">http://</string>
+    <string name="download">Download</string>
+    <string name="url_server">http://192.168.43.234:8080/</string>
+    <string name="write_file">This app needs access to your file storage so that it can write files.</string>
+</resources>
